@@ -6,6 +6,8 @@
 
 Project project = Project("Projekt_1");
 
+
+
 int counter;
 void drawTitle(HDC hdc, HWND hwnd, const wchar_t* _text) {
 	RECT rect;

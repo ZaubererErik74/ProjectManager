@@ -14,4 +14,6 @@ void Project::addSourceFile(SourceFile sourceFile) {
 }
 void Project::printProjectData() const{
 	std::cout << "Name: " << this->name << std::endl;
+
+
 }
